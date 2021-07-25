@@ -4,6 +4,6 @@ Pour avoir accès au jeu :\
 3- Lisez les règles en tapant 0
 
 Pour supprimer les fichiers du jeu :\
-1- Éxecutez "make clean" dans le terminal\
+1- Éxecutez "make clean" dans le terminal
 
 Réalisé par : Olivier Laurent, Anthony Aoun, Johnny Yammine
